@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mercado App</string>
+    <string name="lista_sem_produto">Não há produtos na lista de compra</string>
+    <string name="descricao_botao_adicionar">Botão para adicionar produto na lista de compra</string>
+    <string name="hint_produto">Produto</string>
+    <string name="hint_quantidade">Quantidade</string>
+    <string name="descricao_radio_kg">KG</string>
+    <string name="descricao_radio_litros">Litros</string>
+    <string name="descricao_radio_unidade">Unidade</string>
+    <string name="button_adicionar">Salvar</string>
+    <string name="erro_sem_produto">Por favor, preencha o produto</string>
+    <string name="erro_sem_quantidade">Por favor, preencha q quantidade</string>
+    <string name="erro_cadastro_produto">Não foi possível adicionar o produto</string>
+    <string name="toast_lista_limpa">Lista de compras limpa com sucesso</string>
+</resources>
